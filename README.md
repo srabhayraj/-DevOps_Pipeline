@@ -1,7 +1,7 @@
 # DevOps_Pipeline with integate GIT, Github , Jenkins and Docker. 
 
 
-1.	Create container image that’s has Jenkins installed  using dockerfile 
+1.	Create container image that’s has Jenkins installed  using dockerfile.
 
 2.	When we launch this image, it should automatically starts Jenkins service in the container.
 
